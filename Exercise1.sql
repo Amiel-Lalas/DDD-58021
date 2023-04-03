@@ -11,21 +11,7 @@ JOB_CODE CHAR(3));
 INSERT INTO EMP_1(EMP_NUM, EMP_LNAME, EMP_FNAME, EMP_INITIAL, EMP_HIREDATE, JOB_CODE)
 VALUES ('1', 'Lalas', 'Amiel Simon Ray', 'L', '2023-03-28', '501');
 INSERT INTO EMP_1(EMP_NUM, EMP_LNAME, EMP_FNAME, EMP_INITIAL, EMP_HIREDATE, JOB_CODE)
-VALUES ('2', 'Cepeda', 'Gwyneth', 'B', '2023-03-28', '502');
+VALUES ('2', 'Medina', 'Joanna Micka', 'E', '2023-03-28', '502');
 
 SELECT * FROM exercise1.emp_1
 WHERE JOB_CODE = '502';
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
